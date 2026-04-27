@@ -4,7 +4,7 @@ openai
 pydantic
 pydantic_settings
 requests
-starlette
+starlette<1.0.0
 uvicorn
 google-genai
 jinja2
